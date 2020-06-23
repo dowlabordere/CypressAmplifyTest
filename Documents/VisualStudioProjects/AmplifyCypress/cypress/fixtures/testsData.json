@@ -1,0 +1,8 @@
+{
+  "qa1EnvURL":"https://testing.ticketmasterpartners.com/admin/auth/login",
+  "qa2EnvURL":"https://testing2.ticketmasterpartners.com/admin/auth/login",
+  "stagingEnvURL":"https://staging.ticketmasterpartners.com/admin/auth/login",
+  "prodEnvURL":"https://ticketmasterpartners.com/admin/auth/login",
+  "username": "vladimir.jovanovic@livenation.com",
+  "password": "mojasifra123"
+}
